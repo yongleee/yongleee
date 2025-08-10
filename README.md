@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Yong Le! 👋 I'm a developer passionate about bringing ideas to life on the web, from the user interface right down to the database.
+I'm Yong Le! I'm a developer passionate about bringing ideas to life on the web, from the user interface right down to the database.
 
 **Frontend**: I build interactive and dynamic UIs with React and TailwindCSS. 🎨
 
