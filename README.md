@@ -2,7 +2,7 @@
 
 I'm Yong Le! I'm a developer passionate about bringing ideas to life on the web, from the user interface right down to the database.
 
-**Frontend**: I build interactive and dynamic UIs with React and TailwindCSS. 🎨
+**Frontend**: I build interactive and dynamic UIs with React, Next.js, and TailwindCSS. 🎨
 
 **Backend**: I have hands-on experience architecting server-side logic with both Express.js and Laravel. 🚀
 
